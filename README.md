@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Amine Boucif</h1>
 <h3 align="center">I'm currently looking for an intership (Stage) or work study programe (Alternance)</h3>
 
-- 🌱 I’m currently learning **Data sience**
+-  I’m currently learning **Data sience**
 
-- 👯 I’m looking to collaborate on **Software and AI development**
+-  I’m looking to collaborate on **Software and AI development**
 
-- 👨‍💻 All of my projects are available at [https://www.amineboucif.com/](https://www.amineboucif.com/)
+-  Some of my projects are available at [https://www.amineboucif.com/](https://www.amineboucif.com/)
 
-- 📝 I regularly write articles on [https://www.researchgate.net/profile/Amine-Boucif](https://www.researchgate.net/profile/Amine-Boucif)
+-  I regularly write articles on [https://www.researchgate.net/profile/Amine-Boucif](https://www.researchgate.net/profile/Amine-Boucif)
 
-- 💬 Ask me about **Machine learning , generative AI , deep learning , react , java or c**
+-  Ask me about **Machine learning , generative AI , deep learning , react , java or c**
 
-- 📫 How to reach me **aminboucif98@gmail.com**
+-  How to reach me **aminboucif98@gmail.com**
 
-- 📄 Know about my experiences [https://www.amineboucif.com/Amine-CV.pdf](https://www.amineboucif.com/CVEN.pdf)
+-  Know about my experiences [https://www.amineboucif.com/Amine-CV.pdf](https://www.amineboucif.com/CVEN.pdf)
 
-- ⚡ Fun fact **I like cats**
+-  Fun fact : **I like cats**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
