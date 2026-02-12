@@ -13,8 +13,6 @@
 
 -  How to reach me **aminboucif98@gmail.com**
 
--  Know about my experiences [https://www.amineboucif.com/Amine-CV.pdf](https://www.amineboucif.com/CVEN.pdf)
-
 -  Fun fact : **I like cats**
 
 <h3 align="left">Connect with me:</h3>
