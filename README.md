@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amine Boucif</h1>
 <h3 align="center">I'm currently looking for an intership (Stage) or work study programe (Alternance)</h3>
 
--  I’m currently learning **Data sience**
+-  I’m currently learning **Code as infaustrcture**
 
 -  I’m looking to collaborate on **Software and AI development**
 
