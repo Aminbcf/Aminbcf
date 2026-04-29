@@ -56,7 +56,7 @@ class AmineBoucif:
                             "Computer Vision"]
         self.languages   = {
             "English": "C2 (CEIL)",
-            "French":  "Native 🥖",
+            "French":  "Full Professional Proficiency",
             "Python":  "🐍 fluently"
         }
         self.fun_fact    = "I really like cats 🐈"
