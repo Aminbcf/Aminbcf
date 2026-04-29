@@ -1,24 +1,345 @@
-<h1 align="center">Hi 👋, I'm Amine Boucif</h1>
-<h3 align="center">I'm currently looking for an intership (Stage) or work study programe (Alternance)</h3>
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                        ANIMATED HEADER BANNER                        ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
 
--  I’m currently learning **Code as infaustrcture**
+<div align="center">
 
--  I’m looking to collaborate on **Software and AI development**
+<a href="https://www.amineboucif.com/">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=260&section=header&text=Amine%20Boucif&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20RAG%20%26%20LLM%20Builder&descAlignY=56&descSize=18&stroke=00b4d8&strokeWidth=1" alt="header" />
+</a>
 
--  Some of my projects are available at [https://www.amineboucif.com/](https://www.amineboucif.com/)
+<br/>
 
--  I regularly write articles on [https://www.researchgate.net/profile/Amine-Boucif](https://www.researchgate.net/profile/Amine-Boucif)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=600&color=00B4D8&center=true&vCenter=true&multiline=false&width=820&height=70&lines=Hi+there%2C+I'm+Amine+%F0%9F%91%8B;%F0%9F%A4%96+Building+AI+systems+that+actually+ship;%F0%9F%A7%A0+LLMs+%E2%80%A2+RAG+%E2%80%A2+Agents+%E2%80%A2+Computer+Vision;%E2%9A%A1+Currently+shipping+%40+DATALIA;%F0%9F%92%BC+Open+for+Alternance+%2F+Internship+offers!" alt="typing" />
+</a>
 
--  Ask me about **Machine learning , generative AI , deep learning , react , java or c**
+<br/>
 
--  How to reach me **aminboucif98@gmail.com**
+<!-- Animated badges row -->
+<a href="https://www.linkedin.com/in/amine-boucif-b82ab5247/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:aminboucif22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.amineboucif.com/"><img src="https://img.shields.io/badge/-Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.researchgate.net/profile/Amine-Boucif"><img src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" /></a>
+<a href="https://github.com/Aminbcf"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
--  Fun fact : **I like cats**
+<br/><br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/amine-boucif-b82ab5247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amine-boucif-b82ab5247/" height="30" width="40" /></a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=Aminbcf&label=Profile%20views&color=00b4d8&style=flat-square" />
+<img src="https://img.shields.io/github/followers/Aminbcf?label=Followers&style=flat-square&color=00b4d8" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Alternance%20%F0%9F%9A%80-22c55e?style=flat-square" />
+<img src="https://img.shields.io/badge/Lens%2C%20France-%F0%9F%87%AB%F0%9F%87%B7-blue?style=flat-square" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+</div>
+
+<!-- Rainbow animated divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                              ABOUT ME                                ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> About Me
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+```python
+class AmineBoucif:
+    def __init__(self):
+        self.role        = "AI Engineer & Full-Stack Dev"
+        self.location    = "Lens, France 🇫🇷"
+        self.education   = "Licence Info @ Université d'Artois"
+        self.previously  = "SE @ Université de Boumerdès"
+        self.current     = "Full-Stack & AI Intern @ DATALIA"
+        self.focus       = ["LLMs", "RAG", "Agents",
+                            "Computer Vision"]
+        self.languages   = {
+            "English": "C2 (CEIL)",
+            "French":  "Native 🥖",
+            "Python":  "🐍 fluently"
+        }
+        self.fun_fact    = "I really like cats 🐈"
+
+    def looking_for(self):
+        return "✨ Alternance / End-of-studies internship ✨"
+
+    def say_hi(self):
+        print("Thanks for visiting — let's build something cool!")
+
+me = AmineBoucif()
+me.say_hi()
+```
+
+</td>
+<td width="40%" valign="top" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+
+<br/>
+
+<sub><i>caffeine in, RAG pipelines out</i></sub>
+
+</td>
+</tr>
+</table>
+
+I build production-minded AI systems — from **multi-layer RAG pipelines** running on CPU-only hardware to **YOLO-based industrial defect detection**. I care about latency budgets, fallback strategies, and clean architectures (modular, hexagonal). Lately I've been deep into **agent-powered development** with Claude Code.
+
+<!-- Wave divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                            TECH STACK                                ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+#### 🤖 AI / ML / Deep Learning
+<a href="#"><img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv&perline=10" /></a>
+<br/>
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![FAISS](https://img.shields.io/badge/FAISS-005571?style=for-the-badge)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+![BERT](https://img.shields.io/badge/BERT-FFB300?style=for-the-badge)
+![NLTK](https://img.shields.io/badge/NLTK-4B8BBE?style=for-the-badge)
+![Prophet](https://img.shields.io/badge/Prophet-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+
+<br/>
+
+#### ⚙️ Backend, Infra & Languages
+<a href="#"><img src="https://skillicons.dev/icons?i=python,c,bash,nodejs,express,fastapi,flask,docker,kubernetes,terraform,linux&perline=11" /></a>
+<br/>
+<a href="#"><img src="https://skillicons.dev/icons?i=mysql,mongodb,prisma,postman,git,github&perline=11" /></a>
+
+<br/>
+
+#### 🎨 Frontend & Design
+<a href="#"><img src="https://skillicons.dev/icons?i=react,vue,nextjs,javascript,typescript,html,css,tailwind,figma&perline=11" /></a>
+
+<br/>
+
+#### 🤝 AI Agents I Vibe With
+![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+
+</div>
+
+<!-- Animated cyber divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%" />
+
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                       EXPERIENCE TIMELINE                            ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
+
+## 💼 Experience Timeline
+
+```mermaid
+timeline
+    title 🚀 Amine's Journey So Far
+    Jan 2024 → Jun 2024 : Vitaflow Startup<br/>Junior Software PM<br/>Odoo · Kotlin
+    May 2025 → Aug 2025 : Expert Petroleum Service<br/>AI & Backend Intern<br/>RAG · FAISS · Flask · Docker
+    Aug 2025 → Oct 2025 : LIMOSE Lab<br/>AI Research Student<br/>Deep Learning · Generative Models
+    Mar 2026 → Present  : DATALIA<br/>Full-Stack & AI Intern<br/>Agent-Powered Dev · Claude Code
+```
+
+<!-- Glowing line divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
+
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                         FEATURED PROJECTS                            ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [LLM-Polished-Version](https://github.com/Aminbcf/LLM-Polished-Version)
+> A production-ready, lighter version of the LLM I built during my **Expert Petroleum Service** internship — multi-layer **RAG** with cache → semantic similarity → vector retrieval fallback, optimised for **CPU/RAM-constrained** environments.
+
+`Python` · `RAG` · `FAISS` · `Flask` · `Docker`
+
+<a href="https://github.com/Aminbcf/LLM-Polished-Version"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aminbcf&repo=LLM-Polished-Version&theme=synthwave&hide_border=true" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 📄 [pdf-tool](https://github.com/Aminbcf/pdf-tool) ⭐
+> Embedding-based text extraction from PDFs with **MCP integration** for PDF generation. One of my most-starred repos.
+
+`JavaScript` · `MCP` · `Embeddings`
+
+<a href="https://github.com/Aminbcf/pdf-tool"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aminbcf&repo=pdf-tool&theme=synthwave&hide_border=true" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚦 [Traffic-Accident](https://github.com/Aminbcf/Trafic-Accicdent-)
+> Predicting UK road accidents using ML/DL. Time-series feature engineering with **Lasso, Ridge, SVR, Prophet** — reached **R² up to 0.99**.
+
+`Python` · `Prophet` · `Time-Series`
+
+<a href="https://github.com/Aminbcf/Trafic-Accicdent-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aminbcf&repo=Trafic-Accicdent-&theme=synthwave&hide_border=true" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 [AI](https://github.com/Aminbcf/AI)
+> Fine-tuning playground for squeezing maximum precision and accuracy out of various models.
+
+`Jupyter` · `Fine-Tuning`
+
+<a href="https://github.com/Aminbcf/AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aminbcf&repo=AI&theme=synthwave&hide_border=true" /></a>
+
+</td>
+</tr>
+</table>
+
+<!-- Sparkle divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                            GITHUB STATS                              ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
+
+## 📊 GitHub Stats — Synthwave Edition
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Aminbcf&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&icon_color=00b4d8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aminbcf&layout=compact&theme=synthwave&hide_border=true&langs_count=10" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aminbcf&theme=synthwave&hide_border=true&ring=00b4d8&fire=ff6b6b&currStreakLabel=00b4d8" alt="streak" />
+
+</div>
+
+### 🐍 Watch the Snake Eat My Contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aminbcf/Aminbcf/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aminbcf/Aminbcf/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Aminbcf/Aminbcf/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+### 🌐 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aminbcf&theme=react-dark&hide_border=true&bg_color=0d1117&color=00b4d8&line=00b4d8&point=ffffff&area=true&area_color=00b4d8" width="100%" />
+
+</div>
+
+### 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Aminbcf&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
+
+</div>
+
+### 🧊 3D Contribution Cube
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Aminbcf/Aminbcf/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+
+</div>
+
+<!-- Cyber divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%" />
+
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                      EDUCATION & CERTIFICATIONS                      ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
+
+## 🎓 Education & Certifications
+
+<table>
+<tr>
+<th>🏫 Institution</th>
+<th>📚 Program</th>
+<th>📅 Period</th>
+</tr>
+<tr><td><b>Université d'Artois</b></td><td>Licence Informatique (L3)</td><td>2025 — Present</td></tr>
+<tr><td><b>Université de Boumerdès</b></td><td>Software Engineering (Cycle d'ingénierie)</td><td>2022 — 2025</td></tr>
+<tr><td><b>Anthropic</b></td><td>🏆 <i>Claude Code in Action</i> — Agent-Powered Dev</td><td>2025</td></tr>
+<tr><td><b>CEIL</b></td><td>English Certification — <b>C2</b></td><td>—</td></tr>
+</table>
+
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                          DEV QUOTE                                   ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
+
+## 💡 Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+</div>
+
+<!-- Glowing divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
+
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                             CONNECT                                  ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> Let's Connect
+
+<div align="center">
+
+I'm **actively looking for an alternance or end-of-studies internship** in AI / Backend / Full-Stack.<br/>
+If you're hiring or just want to chat about RAG, agents, or computer vision — my inbox is open.
+
+<br/>
+
+<a href="mailto:aminboucif22@gmail.com">
+  <img src="https://img.shields.io/badge/Drop%20me%20a%20line-aminboucif22%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/amine-boucif-b82ab5247/">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.amineboucif.com/">
+  <img src="https://img.shields.io/badge/Visit%20my%20Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<!-- Cute cat for the cat-lover -->
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" />
+
+<br/>
+
+<sub><i>(I told you I like cats 🐈)</i></sub>
+
+</div>
+
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                          ANIMATED FOOTER                             ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%" />
+
+<div align="center">
+<sub>⭐ From <a href="https://github.com/Aminbcf">Aminbcf</a> — built with caffeine, curiosity, and a lot of <code>Ctrl+S</code>.</sub>
+</div>
