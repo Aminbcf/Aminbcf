@@ -4,9 +4,10 @@
 
 <div align="center">
 
-<a href="https://www.amineboucif.com/">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=260&section=header&text=Amine%20Boucif&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20RAG%20%26%20LLM%20Builder&descAlignY=56&descSize=18&stroke=00b4d8&strokeWidth=1" alt="header" />
-</a>
+<img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" width="100%" alt="header" />
+
+<h2>Amine Boucif</h2>
+<p><b>AI Engineer &bull; Full-Stack Developer &bull; RAG &amp; LLM Builder</b></p>
 
 <br/>
 
@@ -32,8 +33,6 @@
 
 </div>
 
-<!-- Rainbow animated divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 <!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                              ABOUT ME                                ║ -->
@@ -87,9 +86,6 @@ me.say_hi()
 
 I build production-minded AI systems — from **multi-layer RAG pipelines** running on CPU-only hardware to **YOLO-based industrial defect detection**. I care about latency budgets, fallback strategies, and clean architectures (modular, hexagonal). Lately I've been deep into **agent-powered development** with Claude Code.
 
-<!-- Wave divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
-
 <!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                            TECH STACK                                ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
@@ -134,9 +130,6 @@ I build production-minded AI systems — from **multi-layer RAG pipelines** runn
 
 </div>
 
-<!-- Animated cyber divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%" />
-
 <!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                       EXPERIENCE TIMELINE                            ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
@@ -151,9 +144,6 @@ timeline
     Aug 2025 → Oct 2025 : LIMOSE Lab<br/>AI Research Student<br/>Deep Learning · Generative Models
     Mar 2026 → Present  : DATALIA<br/>Full-Stack & AI Intern<br/>Agent-Powered Dev · Claude Code
 ```
-
-<!-- Glowing line divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
 
 <!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                         FEATURED PROJECTS                            ║ -->
@@ -208,9 +198,6 @@ timeline
 </tr>
 </table>
 
-<!-- Sparkle divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
-
 <!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                            GITHUB STATS                              ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
@@ -264,9 +251,6 @@ timeline
 
 </div>
 
-<!-- Cyber divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%" />
-
 <!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                      EDUCATION & CERTIFICATIONS                      ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
@@ -296,9 +280,6 @@ timeline
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
 </div>
-
-<!-- Glowing divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
 
 <!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                             CONNECT                                  ║ -->
