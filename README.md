@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" width="100%" alt="header" />
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" width="100%" alt="header" /> -->
 
 <h2>Amine Boucif</h2>
 <p><b>AI Engineer &bull; Full-Stack Developer &bull; RAG &amp; LLM Builder</b></p>
